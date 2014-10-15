@@ -1,0 +1,9 @@
+{
+   "main": "./lib/app",
+   "name": "cachewarmer",
+   "dependencies": {
+      "couchbase": "~2.0.0",
+      "memcached": "~2.0.0"
+   },
+   "version": "0.0.1"
+}
